@@ -1,0 +1,11 @@
+{
+  "name": "telegraph-js",
+  "version": "1.0.0",
+  "description": "A JavaScript telegraph machine simulator for writing messages in Morse code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Mohammad-Khiabani",
+  "license": "MIT"
+}
