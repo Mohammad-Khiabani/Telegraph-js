@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "A JavaScript telegraph machine simulator for writing messages in Morse code.",
   "main": "index.js",
-  "scripts": {
-    "test": "npm start"
-  },
+  "type": "module",
   "author": "Mohammad-Khiabani",
   "license": "MIT"
 }
