@@ -3,7 +3,7 @@
   margin: 0;
   min-height: 100vh;
   position: fixed;
-  background: url('../images/4j12nz9jxj731.png') center / cover no-repeat;
+  background: url('../images/background.png') center / cover no-repeat;
   filter: blur(12px);
   z-index: -1;
   inset: -20px
