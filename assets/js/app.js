@@ -8,9 +8,6 @@ const plainTextElement = $.querySelector("#plain-text");
 const cipherTextElement = $.querySelector("#cipher-text");
 const morseLetterElement = $.querySelector("#morse-letter");
 
-const plainText = "hello world".toUpperCase();
-const splittedText = Array.from(plainText);
-
 // Variabels
 let tap = 0;
 
