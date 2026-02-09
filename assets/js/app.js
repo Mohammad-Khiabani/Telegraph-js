@@ -7,6 +7,7 @@ const $ = document;
 const plainTextElement = $.querySelector("#plain-text");
 const cipherTextElement = $.querySelector("#cipher-text");
 const morseLetterElement = $.querySelector("#morse-letter");
+const audioElement = $.querySelector("audio");
 
 // Variabels
 let tap = 0;
@@ -22,6 +23,7 @@ let cipherText = "";
 
 // -------------Functions------------------
 window.addEventListener("keydown", opratorSimulator);
+window.addEventListener("keyup", pauseAudio);
 
 // Main function
 function opratorSimulator(e) {
@@ -32,6 +34,7 @@ function opratorSimulator(e) {
   startWhiteSpaceTimer(1000);
 
   if (e.code === "Space") {
+    audioElement.play();
     startSpaceTimer(1800);
     tap++;
     if (tap === 2) {
@@ -111,4 +114,9 @@ function updateText(letter, morse) {
   plainTextElement.innerHTML = text;
   cipherTextElement.innerHTML = cipherText;
   resetMorseLetter();
+}
+
+function pauseAudio() {
+  audioElement.pause();
+  audioElement.load();
 }
