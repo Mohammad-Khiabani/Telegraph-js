@@ -1,4 +1,7 @@
-import { alphabet, morseCodes } from "./alphabet.js";
+import {
+  allLetters as alphabet,
+  allMorseCode as morseCodes,
+} from "./alphabet.js";
 
 // Dom
 const $ = document;
