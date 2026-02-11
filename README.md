@@ -36,8 +36,11 @@
 This project recreates how classic telegraph systems worked by sending and receiving messages using **Morse code** and precise **timing**. It is designed as an **educational project** to help users better understand telegraph communication and how Morse code operates in practice.
 
 <div align="center">
-![Image](https://github.com/user-attachments/assets/338d8b19-a0e3-4ccb-a340-54bd0d4adacd)
-<p align="center">project demo</p>
+<img
+    alt="project demo"
+    src="https://github.com/user-attachments/assets/338d8b19-a0e3-4ccb-a340-54bd0d4adacd"
+  />
+<p>project demo</p>
 </div>
 
 <hr>
@@ -67,11 +70,9 @@ The **telegraph** was the first fast, long-distance communication system that wo
 Information was transmitted by repeatedly connecting and disconnecting an electric current.
 
 <div align="center">
-<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/c71729b4-8861-4b90-8fb4-3c1af52b7705" />
+<img width="1600" height="900" alt="A telegraph morse key(by Science Museum, London (CC BY-NC-SA))" src="https://github.com/user-attachments/assets/c71729b4-8861-4b90-8fb4-3c1af52b7705" />
 <p>A telegraph morse key(by Science Museum, London (CC BY-NC-SA))</p>
 </div>
-
-<hr>
 
 <a id="telegram"></a>
 
@@ -89,11 +90,12 @@ A **telegram** referred to a message sent via an **electrical telegraph**, typic
 It is not a spoken language, but rather a method of representing letters, numbers, and symbols using dots (·) and dashes (–). Each character is defined by a unique combination of dots and dashes and transmitted through interrupted electrical signals.
 
 <div align="center">
-![Image](https://github.com/user-attachments/assets/d855ffab-92f8-4d79-b8e3-716872d14e9b)
+<img
+    alt="International morse code"
+    src="https://github.com/user-attachments/assets/d855ffab-92f8-4d79-b8e3-716872d14e9b"
+  />
 <p>International morse code</p>
 </div>
-
-<hr>
 
 <a id="morse-code-table"></a>
 
@@ -183,7 +185,10 @@ This invention replaced older communication methods such as light signals, smoke
 The telegraph was officially patented on **January 6, 1843**.
 
 <div align="center">
-![Image](https://github.com/user-attachments/assets/420ce34d-46f7-48b8-a17e-7286fe6172db)
+<img
+    alt="Samuel Morse"
+    src="https://github.com/user-attachments/assets/420ce34d-46f7-48b8-a17e-7286fe6172db"
+  />
 <p>Samuel Morse</p>
 </div>
 
@@ -205,15 +210,13 @@ On the receiving end, these signals were either heard as clicking sounds or reco
   <img
     width="485"
     height="215"
-    alt="Image"
+    alt="Parts of a telegraph system"
     src="https://github.com/user-attachments/assets/de4a6a4a-7a5e-4506-906f-980096819912"
   />
   <p>Parts of a telegraph system</p>
 </div>
 
 <hr>
-
----
 
 <a id="uses"></a>
 
