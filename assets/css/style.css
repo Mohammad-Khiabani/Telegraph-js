@@ -83,6 +83,16 @@ li {
   border-radius: 8px;
 }
 
+.description .main-row {
+  vertical-align: top;
+  background-color: rgba(230, 80, 27, 0.1);
+  letter-spacing: 0.2rem;
+}
+
+.main-row table {
+  border: none;
+}
+
 .description th {
   font-family: "Anton", sans-serif;
   font-size: 2rem;
