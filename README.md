@@ -28,7 +28,7 @@
 
 <a id="project-description"></a>
 
-## Project Description
+## 📋 Project Description
 **Telegraph-JS** is a simple simulator of a telegraph device built using **HTML, CSS, and JavaScript**.  
 This project recreates how classic telegraph systems worked by sending and receiving messages using **Morse code** and precise **timing**. It is designed as an **educational project** to help users better understand telegraph communication and how Morse code operates in practice.
 
@@ -36,7 +36,7 @@ This project recreates how classic telegraph systems worked by sending and recei
 
 <a id="the-story"></a>
 
-## 🌱⬅🌳 The Story Behind an Old Dream
+## 💭 The Story Behind an Old Dream
 > The idea for this project started with an old interest in Morse code. I always felt that this language might be useful someday. Since childhood, I’ve been fascinated by mystery and codes, and in my mind, the people in movies who communicated using Morse code were incredibly cool.  
 > Despite this interest, I never seriously pursued it—it felt more like a distant dream.
 >
@@ -77,10 +77,81 @@ It is not a spoken language, but rather a method of representing letters, number
 
 <a id="morse-code-table"></a>
 
-## Morse Code Table
+## 🧾 Morse Code Table
 > **⚠ Note:** At the moment, this project supports **English characters only**.
 
-(See tables in the Persian version – unchanged here)
+<table align="center">
+  <tr valign="top">
+    <td>
+      <table>
+        <tr><th>Letters</th></tr>
+        <tr><td><b>A</b> .-</td></tr>
+        <tr><td><b>B</b> -...</td></tr>
+        <tr><td><b>C</b> -.-.</td></tr>
+        <tr><td><b>D</b> -..</td></tr>
+        <tr><td><b>E</b> .</td></tr>
+        <tr><td><b>F</b> ..-.</td></tr>
+        <tr><td><b>G</b> --.</td></tr>
+        <tr><td><b>H</b> ....</td></tr>
+        <tr><td><b>I</b> ..</td></tr>
+        <tr><td><b>J</b> .---</td></tr>
+        <tr><td><b>K</b> -.-</td></tr>
+        <tr><td><b>L</b> .-..</td></tr>
+        <tr><td><b>M</b> --</td></tr>
+        <tr><td><b>N</b> -.</td></tr>
+        <tr><td><b>O</b> ---</td></tr>
+        <tr><td><b>P</b> .--.</td></tr>
+        <tr><td><b>Q</b> --.-</td></tr>
+        <tr><td><b>R</b> .-.</td></tr>
+        <tr><td><b>S</b> ...</td></tr>
+        <tr><td><b>T</b> -</td></tr>
+        <tr><td><b>U</b> ..-</td></tr>
+        <tr><td><b>V</b> ...-</td></tr>
+        <tr><td><b>W</b> .--</td></tr>
+        <tr><td><b>X</b> -..-</td></tr>
+        <tr><td><b>Y</b> -.--</td></tr>
+        <tr><td><b>Z</b> --..</td></tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr><th>Digits</th></tr>
+        <tr><td>0 -----</td></tr>
+        <tr><td>1 .----</td></tr>
+        <tr><td>2 ..---</td></tr>
+        <tr><td>3 ...--</td></tr>
+        <tr><td>4 ....-</td></tr>
+        <tr><td>5 .....</td></tr>
+        <tr><td>6 -....</td></tr>
+        <tr><td>7 --...</td></tr>
+        <tr><td>8 ---..</td></tr>
+        <tr><td>9 ----.</td></tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr><th>Punctuation</th></tr>
+        <tr><td>&amp; .-...</td></tr>
+        <tr><td>' .----.</td></tr>
+        <tr><td>@ .--.-.</td></tr>
+        <tr><td>) -.--.-</td></tr>
+        <tr><td>( -.--.</td></tr>
+        <tr><td>: ---...</td></tr>
+        <tr><td>, --..--</td></tr>
+        <tr><td>= -...-</td></tr>
+        <tr><td>! -.-.--</td></tr>
+        <tr><td>. .-.-.-</td></tr>
+        <tr><td>- -....-</td></tr>
+        <tr><td>× -..-</td></tr>
+        <tr><td>% ---</td></tr>
+        <tr><td>+ .-.-.</td></tr>
+        <tr><td>" .-..-.</td></tr>
+        <tr><td>? ..--..</td></tr>
+        <tr><td>/ -..-.</td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
