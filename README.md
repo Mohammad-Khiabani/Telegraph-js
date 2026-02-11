@@ -31,6 +31,8 @@
 ## 📋 Project Description
 **Telegraph-JS** is a simple simulator of a telegraph device built using **HTML, CSS, and JavaScript**.  
 This project recreates how classic telegraph systems worked by sending and receiving messages using **Morse code** and precise **timing**. It is designed as an **educational project** to help users better understand telegraph communication and how Morse code operates in practice.
+![Image](https://github.com/user-attachments/assets/338d8b19-a0e3-4ccb-a340-54bd0d4adacd)
+<p align="center">project demo</p>
 
 ---
 
@@ -55,8 +57,9 @@ This project recreates how classic telegraph systems worked by sending and recei
 ## 🖨 Telegraph
 The **telegraph** was the first fast, long-distance communication system that worked using electrical pulses over wires.  
 Information was transmitted by repeatedly connecting and disconnecting an electric current.
-- Image
 
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/c71729b4-8861-4b90-8fb4-3c1af52b7705" />
+<p align="center">A telegraph morse key(by Science Museum, London (CC BY-NC-SA))</p>
 ---
 
 <a id="telegram"></a>
@@ -71,8 +74,8 @@ A **telegram** referred to a message sent via an **electrical telegraph**, typic
 ## 📜 Morse Code
 **Morse code** is an encoding system used for communication through **telegraph devices**, invented by **Samuel Morse** and his collaborators.  
 It is not a spoken language, but rather a method of representing letters, numbers, and symbols using dots (·) and dashes (–). Each character is defined by a unique combination of dots and dashes and transmitted through interrupted electrical signals.
-- Image
-
+![Image](https://github.com/user-attachments/assets/d855ffab-92f8-4d79-b8e3-716872d14e9b)
+<p align="center">International morse code</p>
 ---
 
 <a id="morse-code-table"></a>
@@ -160,6 +163,8 @@ It is not a spoken language, but rather a method of representing letters, number
 The **telegraph** was first introduced in **1838** by the American artist and inventor **Samuel Morse**.  
 This invention replaced older communication methods such as light signals, smoke signals, and lamps, making long-distance messaging faster and more reliable.  
 The telegraph was officially patented on **January 6, 1843**.
+![Image](https://github.com/user-attachments/assets/420ce34d-46f7-48b8-a17e-7286fe6172db)
+<p align="center">Samuel Morse</p>
 
 ---
 
@@ -173,7 +178,9 @@ The receiver contains components such as an electromagnet, which attracts a mova
 
 By interrupting the electric current, electrical pulses travel through the wire. Short and long interruptions are interpreted as **dots and dashes**, forming Morse code signals.  
 On the receiving end, these signals were either heard as clicking sounds or recorded on paper tape.
-- Image
+
+<img width="485" height="215" alt="Image" src="https://github.com/user-attachments/assets/de4a6a4a-7a5e-4506-906f-980096819912" />
+<p align="center">Parts of a telegraph system</p>
 
 ---
 
