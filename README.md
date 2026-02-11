@@ -78,7 +78,6 @@ It is not a spoken language, but rather a method of representing letters, number
 <a id="morse-code-table"></a>
 
 ## 🧾 Morse Code Table
-> **⚠ Note:** At the moment, this project supports **English characters only**.
 
 <table align="center">
   <tr valign="top">
