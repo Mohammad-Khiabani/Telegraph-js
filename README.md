@@ -35,15 +35,21 @@
 **Telegraph-JS** is a simple simulator of a telegraph device built using **HTML, CSS, and JavaScript**.  
 This project recreates how classic telegraph systems worked by sending and receiving messages using **Morse code** and precise **timing**. It is designed as an **educational project** to help users better understand telegraph communication and how Morse code operates in practice.
 
-<div align="center">
-<img
-    alt="project demo"
-    src="https://github.com/user-attachments/assets/338d8b19-a0e3-4ccb-a340-54bd0d4adacd"
-  />
-<p>project demo</p>
-</div>
+## 🛜 Live Demo
 
-<hr>
+<div align="center">
+   <a href="https://mohammad-khiabani.github.io/Telegraph-js/">
+      <img
+        alt="project demo"
+        src="https://github.com/user-attachments/assets/338d8b19-a0e3-4ccb-a340-54bd0d4adacd"
+      />
+   </a>
+   <br/>
+   <br/>
+   <a style="font-size:Bold" href="https://mohammad-khiabani.github.io/Telegraph-js/">
+     <img width="300" height="50" src="https://img.shields.io/badge/🚀_Explore_Live_Demo-2ea44f?style=for-the-badge" />
+   </a>
+</div>
 
 <a id="the-story"></a>
 
