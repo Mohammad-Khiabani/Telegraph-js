@@ -16,7 +16,6 @@
 - [History and Inventor](#history)
 - [How the Device Works](#how-the-device-works)
 - [Uses of Morse Code](#uses)
-- [Project Goals](#project-goals)
 - [How to Run the Project](#how-to-run)
 - [How the Project Works](#how-the-project-works)
 - [Project Structure](#project-structure)
