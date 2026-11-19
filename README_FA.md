@@ -2,7 +2,7 @@
 
 ## 🌐 Languages
 - [🇬🇧 English](README.md)
-- [🇮🇷 Persian](README_FA.md)
+- [🇮🇷 فارسی](README_FA.md)
 
 ## 📋 فهرست
 - [توضیح پروژه](#توضیح-پروژه)
