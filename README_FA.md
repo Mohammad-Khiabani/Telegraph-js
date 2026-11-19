@@ -28,15 +28,21 @@
 
 ## 📋 توضیح پروژه
 پروژه **Telegraph-JS** یک شبیه‌ساز ساده از دستگاه تلگراف است که با استفاده از **HTML، CSS و JavaScript** ساخته شده است. این پروژه نحوه کار سیستم‌های تلگراف کلاسیک را از طریق ارسال و دریافت پیام‌ها با استفاده از **کد مورس** و **زمان‌بندی** آن شبیه‌سازی می‌کند و به‌عنوان یک **پروژه آموزشی** طراحی شده است تا به کاربران کمک کند درک بهتری از نحوهٔ برقراری ارتباط تلگرافی و عملکرد کُد مورس در عمل داشته باشند.
-<div align="center">
-<img
-    alt="دموی پروژه"
-    src="https://github.com/user-attachments/assets/338d8b19-a0e3-4ccb-a340-54bd0d4adacd"
-  />
-<p>دموی پروژه</p>
-</div>
+## 🛜 مشاهده آنلاین دمو
 
-<hr>
+<div align="center">
+   <a href="https://mohammad-khiabani.github.io/Telegraph-js/">
+      <img
+        alt="project demo"
+        src="https://github.com/user-attachments/assets/338d8b19-a0e3-4ccb-a340-54bd0d4adacd"
+      />
+   </a>
+   <br/>
+   <br/>
+   <a style="font-size:Bold" href="https://mohammad-khiabani.github.io/Telegraph-js/">
+     <img width="300" height="50" src="https://img.shields.io/badge/🚀_Explore_Live_Demo-2ea44f?style=for-the-badge" />
+   </a>
+</div>
 
 <a id="داستان-شکل-گیری"> </a>
 
