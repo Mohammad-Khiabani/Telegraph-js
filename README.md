@@ -3,7 +3,7 @@
 ## 🌐 Languages
 
 - [🇬🇧 English](README.md)
-- [🇮🇷 Persian](README_FA.md)
+- [🇮🇷 فارسی](README_FA.md)
 
 ## 📋 Table of Contents
 
